@@ -1,0 +1,31 @@
+body{
+    background-image: url(JAR_4005a+\(1\).webp);
+    height:1250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.container {
+    margin-top: 130px;
+    opacity: 90%;
+    background-color: rgba(255, 255, 255, 0.85); 
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px;
+    width: 800px;
+    text-align: left;
+}
+
+h2{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
